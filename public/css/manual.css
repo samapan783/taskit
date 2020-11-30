@@ -1,0 +1,1170 @@
+/*contact*/
+.contact-section .contact-info p a:hover,
+.contact-section .contact-info p a:focus {
+    color: #fd5f00;
+}
+
+
+.wrap-about img{  
+    background-size: contain !important;}
+
+
+
+.contact-section .box h3,
+.contact-section .box p {
+    margin-bottom: 0 !important;
+}
+
+.contact-section .box h3 {
+    font-family: 'Aleo', serif;
+    line-height: 30.67px;
+    font-weight: 700;
+    color: #063360;
+    font-size: 27px;
+    margin-bottom: 10px !important;
+}
+
+.contact-section .box p,
+.contact-section .box p a {
+    font-family: "Open Sans", sans-serif;
+    color: #063360;
+    font-weight: 400;
+    font-size: 20.44px;
+    line-height: 30.67px;
+}
+
+.contact-section .box {
+    padding: 3em 1.5em !important;
+}
+
+.ftco-section {
+    padding: 100px 0 100px 0;
+}
+
+.ftco-section.ftco-no-pb {
+    margin-bottom: 100px;
+    padding: 0
+}
+
+.course-form .form-group label {
+    font-family: Aleo, serif;
+    font-weight: 700;
+    font-size: 23px;
+    color: #063360;
+    line-height: 30.67px;
+    text-transform: none;
+}
+
+.course-form .form-group .form-control {
+    margin-bottom: 1px;
+    border: 2px solid #424043;
+    border-radius: 0;
+    background: #fff;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30.67px;
+    color: #063360;
+    resize: none;
+}
+
+.course-form .form-group .btn.btn-primary {
+    width: auto;
+    border-radius: 0;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 30.67px;
+    font-family: "Open Sans", sans-serif;
+    text-transform: uppercase;
+    padding: 14px 56px !important;
+    margin-top: 10px;
+}
+
+.ftco-footer-social li:last-child {
+    margin-right: 0
+}
+
+.ftco-footer-social li a:hover,
+.ftco-footer-social li a:focus {
+    background: #fd5f00;
+}
+
+.ftco-footer .ftco-footer-widget h2 {
+    text-align: center;
+    font-family: 'Aleo', serif;
+    line-height: 30.67px;
+    font-weight: 700;
+    font-size: 27px;
+    margin-bottom: 10px !important;
+    font-family: "Open Sans", sans-serif;
+}
+
+.block-23 ul li span {
+    font-family: "Open Sans", sans-serif;
+    color: #fff;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: normal;
+}
+
+.ftco-footer a:hover,
+.ftco-footer a:focus {
+    color: #fd5f00;
+}
+
+.ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
+    font-family: "Open Sans", sans-serif;
+    text-transform: uppercase;
+}
+
+.navbar-expand-lg .navbar-nav {
+    justify-content: center;
+    margin-right: 0 !important;
+    padding-right: 0;
+}
+
+.navbar-expand-lg .navbar-nav li:last-child a {
+    padding-right: 0;
+}
+
+.navbar-expand-lg .navbar-collapse {
+    justify-content: center;
+}
+
+.hero-wrap.hero-wrap-2 .slider-text .bread {
+    font-family: "Open Sans", sans-serif;
+    font-size: 90px;
+}
+
+.float-md-left {
+    float: none !important;
+    text-align: center;
+}
+
+.ftco-section {
+    padding: 70px 0 30px 0;
+}
+
+.ftco-section .col-md-12.text-center {
+    border-top: 1px solid #4e4e4e;
+    padding-top: 40px;
+}
+
+@media (max-width:1200px) {
+    .contact-section .box {
+        padding: 3em 10px !important;
+    }
+}
+
+@media (max-width: 991px) {
+    .contact-info .col-md-3 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 25%;
+        flex: 0 0 50%;
+        max-width: 50%;
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 580px) {
+    .contact-info .col-md-3 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .ftco-section {
+        padding: 70px 0 50px 0;
+    }
+
+    .ftco-section.ftco-no-pb {
+        margin-bottom: 70px;
+    }
+}
+
+@media (max-width: 480px) {}
+
+.course-form .form-group .btn.btn-primary {
+    width: 100%;
+}
+
+}
+
+@media (min-width: 768px) {
+    .float-md-left {
+        float: none !important;
+        text-align: center;
+    }
+
+    .ftco-footer .ftco-footer-widget h2 {
+        text-align: center;
+    }
+}
+
+@media (max-width: 991px) {
+    .ftco-navbar-light .container {
+        background: transparent;
+        width: auto;
+        padding: 0 !important;
+    }
+
+    .ftco-navbar-light {
+        background: transparent !important;
+        border: 0;
+        position: absolute;
+        left: inherit;
+        right: 0;
+        top: 0;
+        width: auto;
+        padding: 0;
+    }
+
+    .ftco-navbar-light .navbar-toggler {
+        z-index: 99;
+        position: fixed;
+        top: 0;
+        right: 0;
+        margin-right: 0;
+        padding: 0;
+        border-radius: 0;
+        margin-left: 0;
+        color: rgb(13 17 40) !important;
+        cursor: pointer;
+        text-transform: uppercase;
+        font-size: 16px;
+        letter-spacing: .1em;
+        margin-top: 0;
+    }
+
+    .ftco-navbar-light .navbar-toggler{  color: #fff !important;outline:none}
+     .ftco-navbar-light .navbar-toggler[aria-expanded="true"]{}
+    .ftco-navbar-light .oi-menu{padding: 15px;
+    background: #0d1128;}
+    .navbar-collapse {
+        background: #0d1128 !important;
+        text-align: center;
+        width: 100%;
+        position: fixed;
+        z-index: 9;
+       top: 1.5rem;
+    right: 37px;
+        overflow-x: hidden;
+        transition: all 0.5s ease 0s;
+        padding-top: 30px;
+        display: block;
+        padding-bottom: 30px;
+        transform: scale(0.7) !important;
+        z-index: 9;
+        opacity: 0;
+        visibility: hidden;    height: 100% !important;
+    }
+
+    .navbar-collapse.show {
+        opacity: 1;
+        visibility: visible;
+        transform: scale(1) !important;display: flex;
+    }
+
+    .ftco-navbar-light .navbar-nav > .nav-item.active > a {
+        color: #fd5f00;
+    }
+
+    .ftco-navbar-light .navbar-nav > .nav-item > a {
+        color: #fd5f00;
+        font-size: 30px;
+        color: #fff;
+        font-family: "Open Sans", sans-serif;
+    }.navbar-light .topper {
+    font-size: 15px;
+        width: 50%;}
+}
+
+@media (max-width: 576px){
+    .ftco-navbar-light .navbar-toggler{    right: 15px;}  
+}
+
+@media (max-width: 480px){
+    .navbar-light .topper { width:100%;}
+   .navbar-light  .col-md-4.align-items-center{
+    border-bottom: 1px solid #0d1128;
+    margin-bottom: 10px;
+}
+}
+
+/*Home*/
+
+.ftco-section {
+    padding: 100px 0 100px 0 !important;
+}
+
+.registration {
+    padding: 100px 30px !important;
+}
+
+.wrap-about h2,
+.heading-section.heading-section-white h2,
+.heading-section h2 {
+    color: #063360;
+    margin-bottom: 10px !important;
+    font-family: Aleo, serif;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 40px;
+    padding-bottom: 15px;
+    width: 100%;
+}
+
+.heading-section.heading-section-white h2 {
+    color: #fff;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #4d4d4d;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30.67px;
+}
+
+.services-2 .text h3 {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Aleo', serif;
+    line-height: 30.67px;
+    font-weight: 700;
+    color: #063360;
+    font-size: 22px;
+    margin-bottom: 10px !important;
+    font-family: "Open Sans", sans-serif;
+}
+
+.ftco-section .course .text {
+    background: #fbfbfb;
+    padding: 0;
+    webkit-box-shadow: 10px 10px 20px 0px rgba(242, 242, 242, 1);
+    -moz-box-shadow: 10px 10px 20px 0px rgba(242, 242, 242, 1);
+    box-shadow: 10px 10px 20px 0px rgba(242, 242, 242, 1);
+    border: 0;
+    margin: 0 0 20px 0;
+    padding: 20px;
+}
+
+.ftco-section .course {
+    margin-bottom: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ftco-section .course .text {
+    padding: 20px;
+    padding-bottom: 30px;
+    flex: 1;
+    flex-direction: column;
+    display: flex;
+    padding-bottom: 70px;
+    position: relative;
+}
+
+.ftco-section .course .text btn {
+    position: absolute;
+    bottom: 30px;
+    left: 20px;
+    right: 20px;
+    width: auto;
+}
+
+.course .text h3 a {
+    color: #063360;
+    font-size: 23.05px;
+    margin-top: 0;
+    display: inline-block;
+    width: 100%;
+    font-weight: 700;
+    font-family: "Open Sans", sans-serif;
+}
+
+.course .text p.meta {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #424043;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 15.37px;
+    line-height: normal;
+    margin-bottom: 10px;
+}
+
+.btn.btn-primary {
+    border: 2px solid #fd6001;
+    width: auto;
+    border-radius: 0;
+    background: #fd6001;
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30.67px;
+    font-family: "Open Sans", sans-serif;
+    text-transform: uppercase;
+    padding: 3px 28px !important;
+    margin: 20px 0;
+    margin-bottom: 0;
+    display: inline-block;
+}
+
+.ftco-section.ftco-counter .mb-5.pb-2 {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.btn.btn-primary:hover,
+.btn.btn-primary:focus {
+    background: #fff;
+    color: #fd6001;
+    border: 2px solid #fd6001;
+}
+
+.owl-carousel.home-slider .slider-item .slider-text h1 {
+    font-size: 60px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.appointment-form .form-control {
+    border: transparent !important;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.2) !important;
+    height: 58px !important;
+    padding-left: 0;
+    padding-right: 0;
+    background: transparent !important;
+    color: rgba(255, 255, 255, 0.9) !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    border: 2px solid #424043;
+    border-radius: 0;
+    background: #fff;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    resize: none;
+}
+
+.appointment-form .form-control option {
+    background: #063360
+}
+
+.appointment-form .form-group .icon {
+    z-index: -1;
+}
+
+.testimony-section .owl-dots .owl-dot {
+    width: 12px;
+    height: 12px;
+}
+
+.ftco-section.ftco-consult .col-md-6 {
+    max-width: 600px !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    margin-top: 0 !important;
+    flex: inherit;
+    margin-bottom: 0 !important;
+}
+
+.ftco-section.ftco-consult .col-md-6 .py-md-5 {
+    padding-bottom: 0 !important;
+    padding-top: 0 !important;
+}
+
+footer.ftco-section {
+    padding: 70px 0 30px 0 !important;
+}
+
+.ftco-section.testimony-section {
+    padding-top: 0 !important
+}
+
+.ftco-section .course .btn {
+    width: auto;
+    position: absolute;
+    bottom: 30px;
+    left: 20px;
+    right: 20px;
+}
+
+.hero-wrap.hero-wrap-2 .slider-text .bread {
+    font-family: "Open Sans", sans-serif;
+    font-size: 60px !important;
+}
+
+.ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
+    padding-top: 25px;
+    line-height: normal;
+    padding-bottom: 25px;
+}
+
+.gallery-container .tz-gallery .caption {
+    padding: 26px 30px;
+    text-align: center;
+    padding: 20px;
+    padding-bottom: 30px;
+    flex: 1;
+    flex-direction: column;
+    display: flex;
+    padding-bottom: 70px;
+    position: relative;
+    background: #fbfbfb;
+    padding: 0;
+    webkit-box-shadow: 10px 10px 20px 0px rgba(242, 242, 242, 1);
+    -moz-box-shadow: 10px 10px 20px 0px rgba(242, 242, 242, 1);
+    box-shadow: 10px 10px 20px 0px rgba(242, 242, 242, 1);
+    border: 0;
+    margin: 0 0 20px 0;
+    padding: 20px;
+}
+
+.gallery-container .tz-gallery .caption h3 {
+    color: #063360;
+    font-size: 23.05px;
+    margin-top: 0;
+    display: inline-block;
+    width: 100%;
+    font-weight: 700;
+    font-family: "Open Sans", sans-serif;
+    text-align: left;
+}
+
+.gallery-container .tz-gallery .caption p {
+    margin: 0;
+    letter-spacing: 1px;
+    color: #424043;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 15.37px;
+    line-height: normal;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.navbar-expand-lg .navbar-nav {
+    width: 100%;
+}
+
+.navbar-brand {
+    float: left !important;
+    height: auto !important;
+    padding: 0 !important;
+    font-size: 38px !important;
+    line-height: 1 !important;
+}
+
+.no-gutters {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+    font-family: "Poppins", Arial, sans-serif;
+
+}
+
+.topper .text {
+    white-space: nowrap;
+}
+
+.topper .text span {
+    font-family: "Poppins", Arial, sans-serif;
+}
+
+.navbar-light .navbar-brand {
+    font-family: "Poppins", Arial, sans-serif;
+}
+
+.topper .text span:first-child {
+    line-height: 27px;
+}
+
+.ftco-section.contact-section {
+    padding-bottom: 0 !important;
+}
+
+
+
+@media (min-width: 768px) {
+    .container {
+        max-width: 100%;
+        padding-right: 30px;
+        padding-left: 30px;
+        width: 100% !important;
+    }
+
+    .bg-top .col-lg-8.d-block {
+        width: auto !important
+    }
+
+    .navbar {
+        border-radius: 0 !important;
+    }
+}
+
+@media (min-width: 991px) {
+    .bg-top {
+        min-height: 102px;
+        display: flex;
+        align-items: center;
+    }
+}
+
+@media (min-width: 1280px) {
+    .container {
+        max-width: 100%;
+    }
+}
+
+.hero-wrap.hero-wrap-2 .slider-text .bread {
+    font-size: 60px;
+}
+
+.owl-carousel.home-slider .owl-dots .owl-dot {
+    width: 12px !important;
+    height: 12px !important;
+}
+
+.gallery-container .tz-gallery {
+    padding: 100px 0 80px 0;
+}
+
+.navbar {
+    min-height: auto !important;
+}
+
+.ftco-section.ftco-no-pt.affilation_facto .row.d-flex .order-md-last.wrap-about .img,
+.ftco-section.ftco-no-pt.affilation_facto .row.d-flex .order-md-last.wrap-about img {
+    background-size: contain;
+    max-height: 450px;
+    background-position: top;
+}
+
+
+@media (min-width: 1366px) {
+    .container {
+        max-width: 1280px !important;
+        width: 1280px !important
+    }
+
+
+}
+
+@media (max-width: 1366px) {
+
+    .owl-carousel.home-slider .slider-item .slider-text h1,
+    .hero-wrap.hero-wrap-2 .slider-text .bread {
+        font-size: 50px !important;
+    }
+
+    .ftco-section .course {
+        flex: 0 0 33.33333%;
+        max-width: 33.33333%;
+    }
+}
+
+@media (max-width: 991px) {
+    .ftco-section .course {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .owl-carousel.home-slider .slider-item .slider-text h1,
+    .hero-wrap.hero-wrap-2 .slider-text .bread {
+        font-size: 40px !important;
+    }
+
+
+    .ftco-section.ftco-no-pt .row.d-flex .wrap-about {
+        flex: 100%;
+        max-width: 100%;
+        position: relative;
+        visibility: visible;
+        opacity: 1;
+        padding-bottom: 0 !important;
+        padding-top: 0 !important;
+    }
+
+    .ftco-section.ftco-no-pt .row.d-flex .order-md-last.wrap-about .img,
+    .ftco-section.ftco-no-pt .row.d-flex .order-md-last.wrap-about img {
+        height: 450px;
+        margin-top: 80px
+    }
+
+    .ftco-navbar-light .navbar-toggler {
+        top: 20px !important;
+        right: 20px !important;
+    }
+
+    .ftco-footer-social li {
+        opacity: 1;
+        visibility: visible;
+    }
+
+    footer.ftco-section .col-md-6:last-child {
+        position: absolute;
+        right: 0;
+    }
+
+    .navbar-light .topper {
+        padding-right: 0;
+    }
+}
+
+@media (max-width:768px) {
+
+
+    .ftco-section .course {
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 50px;
+    }
+
+    .ftco-section .course:last-child {
+        margin-bottom: 0
+    }
+
+    footer.ftco-section .col-md-6:last-child {
+        position: relative;
+    }
+
+    .ftco-section {
+        padding: 70px 0 70px 0 !important;
+    }
+
+    .registration {
+        padding: 70px 30px !important;
+    }
+
+    .gallery-container .tz-gallery {
+        padding: 70px 0 50px 0;
+    }
+
+    .ftco-section.ftco-no-pt .row.d-flex .order-md-last.wrap-about .img,
+    .ftco-section.ftco-no-pt .row.d-flex .order-md-last.wrap-about img {
+        margin-top: 70px
+    }
+
+    .ftco-section.ftco-no-pb {
+        margin-bottom: 50px;
+    }
+
+    .navbar {
+        min-height: 0;
+    }
+
+    .ftco-section.ftco-no-pt.affilation_facto .row.d-flex .order-md-last.wrap-about .img,
+    .ftco-section.ftco-no-pt.affilation_facto .row.d-flex .order-md-last.wrap-about img {
+        max-height: 350px;
+    }
+
+    .ftco-section.ftco-no-pt .row.d-flex .order-md-last {
+        flex: 0 0 10%;
+        max-width: 1000%;
+    }
+
+    .container {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+}
+
+@media (max-width:767px) {
+    .ftco-section.ftco-no-pt .row.d-flex {
+        flex-direction: column-reverse;
+    }
+
+    .ftco-section.ftco-no-pt.registration .row.d-flex {
+        flex-direction: inherit;
+    }
+}
+
+@media (max-width:575px) {
+    .ftco-navbar-light .navbar-toggler {
+        top: 15px !important;
+        right: 15px !important;
+    }
+
+    .ftco-section {
+        padding: 50px 0 50px 0 !important;
+    }
+
+    .registration {
+        padding: 50px 20px !important;
+    }
+
+    .gallery-container .tz-gallery {
+        padding: 50px 0 30px 0;
+    }
+
+    .ftco-section.ftco-no-pb {
+        margin-bottom: 20px;
+    }
+
+    .ftco-section.ftco-no-pt .row.d-flex .order-md-last.wrap-about .img,
+    .ftco-section.ftco-no-pt .row.d-flex .order-md-last.wrap-about img {
+        margin-top: 50px
+    }
+
+    .ftco-section.ftco-no-pt.affilation_facto .row.d-flex .order-md-last.wrap-about .img,
+    .ftco-section.ftco-no-pt.affilation_facto .row.d-flex .order-md-last.wrap-about img {
+        max-height: 200px;
+    }
+}
+
+.registration .form-row label,
+.registration label {
+    font-family: Aleo, serif;
+    font-weight: 700;
+    font-size: 23px;
+    color: #063360;
+    line-height: 30.67px;
+    text-transform: none;
+}
+
+.registration .form-row .table-dark {
+    background-color: #063360 !important;
+}
+
+.registration .form-row .btn.btn-primary {
+    margin: 0
+}
+
+.registration .form-control,
+.registration .custom-control-label::before,
+.registration .custom-file-label,
+.registration .custom-select,
+.registration .custom-select:focus {
+    margin-bottom: 1px;
+    border: 2px solid #424043;
+    border-radius: 0;
+    outline: none !important;
+    box-shadow: none;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    height: 52px !important;
+    line-height: 30.67px;
+    color: #063360;
+    resize: none;
+}
+
+#contact-form {
+    padding-top: 50px;
+}
+
+.registration .table-dark th,
+.registration .table-dark td,
+.registration .table-dark thead th {
+    border-color: #454d55;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30.67px;
+}
+
+.registration .input-field {
+    margin-bottom: 1px;
+    border: 2px solid #424043;
+    border-radius: 0;
+    outline: none !important;
+    box-shadow: none;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    height: 52px !important;
+    line-height: 30.67px;
+    color: #063360;
+    resize: none;
+}
+
+.registration .table-dark th .btn.btn-primary,
+.registration .table-dark td .btn.btn-primary,
+.registration .table-dark thead th .btn.btn-primary {
+    height: 52px !important;
+}
+
+.registration button[type=submit] {
+    border-radius: 0;
+    font-size: 16px;
+    line-height: 30.67px;
+    font-family: "Open Sans", sans-serif;
+    text-transform: uppercase;
+    padding: 14px 56px !important;
+    border: 2px solid #fd6001;
+    width: auto;
+    border-radius: 0;
+    background: #fd6001;
+    color: #ffffff;
+    font-weight: 400;
+    margin: 20px 0;
+    display: inline-block;
+}
+
+.btn.btn-primary:hover,
+.btn.btn-primary:focus {
+    background: #fff !important;
+    color: #fd6001 !important;
+    border: 2px solid #fd6001 !important;
+}
+
+.registration button[type=submit]:hover,
+.registration button[type=submit]:focus {
+    background: #fff !important;
+    color: #fd6001 !important;
+    border: 2px solid #fd6001 !important;
+}
+
+.registration .container.my-2 {
+    background-color: #fafafa;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.473), 0 6px 20px 0 rgba(0, 0, 0, 0.473);
+    webkit-box-shadow: 10px 10px 20px 0px rgba(242, 242, 242, 1);
+    -moz-box-shadow: 10px 10px 20px 0px rgba(242, 242, 242, 1);
+    box-shadow: 10px 10px 20px 0px rgba(242, 242, 242, 1);
+    border: 0;
+}
+
+.registration .container-title {
+    width: 100%;
+}
+
+.registration .form-check-input {
+    margin-top: 10px;
+}
+
+.registration .container-title h3 {
+    color: #063360;
+    margin-bottom: 10px !important;
+    font-family: Aleo, serif;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 40px;
+    padding-bottom: 15px;
+    width: 100%;
+}
+
+@media (max-width:1200px) {
+
+    .registration .table-dark th,
+    .registration .table-dark td,
+    .registration .table-dark thead th {
+        min-width: 200px;
+    }
+}
+
+@media (max-width:575px) {
+    .registration .container-title h3 {
+        color: #063360;
+        margin-bottom: 10px !important;
+        font-family: Aleo, serif;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 30px;
+        padding-bottom: 0;
+        width: 100%;
+    }
+}
+
+.doctor .coralbg {
+    background-color: #FA396F;
+    background: #fd5f00;
+    color: #fff;
+}
+
+.doctor .no-pad {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.doctor .user-pad h3 {
+    color: #fff;
+    margin-bottom: 10px !important;
+    font-weight: 700;
+    width: 100%;
+    font-size: 30px;
+    line-height: 30.67px;
+    margin-bottom: 10px !important;
+    font-family: "Open Sans", sans-serif;
+}
+
+.doctor .user-pad h4 {
+    margin-bottom: 0 !important;
+}
+
+.doctor .user-pad h4 p {
+    line-height: 30.67px;
+    font-weight: 700;
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 10px !important;
+    font-family: "Open Sans", sans-serif;
+    margin-bottom: 0 !important;
+}
+
+.doctor .user-menu.user-pad {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.doctor .user-menu.user-pad .user-menu-content h3 {
+    line-height: 30.67px;
+    font-weight: 700;
+    color: #063360;
+    font-size: 22px;
+    margin-bottom: 10px !important;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+}
+
+.doctor .user-menu-list li {
+    padding-bottom: 0;
+}
+
+.doctor .user-menu-list li p:last-child {
+    margin-bottom: 0;
+}
+
+.doctor {
+    margin-bottom: 60px;
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.doctor ul.user-menu-list {
+    border: 1px solid #fd6408;
+    padding: 15px;
+}
+
+
+
+.doctor div.user-menu-container .thumbnail {
+    object-fit: cover;
+    background-position: left !important;
+}
+
+.doctor .no-pad .user-image {
+    width: 100%;
+}
+
+@media (max-width:768px) {
+    .doctor .user-menu.user-pad {
+        padding-bottom: 30px;
+    }
+
+    .user-pad {
+        width: 100%;
+    }
+
+}
+
+@media (min-width:992px) {
+    .doctor {
+        margin-bottom: 100px;
+        margin-top: 100px !important;
+        margin-right: 0;
+        margin-left: 0;
+    }
+}
+
+@media (max-width:991px) {
+    .doctor {
+        margin-bottom: 60px;
+        margin-top: 0 !important;
+    }
+}
+
+@media (max-width: 991px) {.navbar-collapse.show,
+.navbar-expand-lg .navbar-collapse.show {
+    display: initial;
+    right: 0;
+    top: 0;
+}
+}
+
+.fractro_details .duration h3 {
+    color: #063360;
+    margin-bottom: 10px !important;
+    font-family: Aleo, serif;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 40px;
+    padding-bottom: 15px;
+    width: 100%;
+}
+
+.fractro_details .eligibility h3 {
+    line-height: 30.67px;
+    font-weight: 700;
+    color: #063360;
+    font-size: 22px;
+    margin-bottom: 10px !important;
+    font-family: "Open Sans", sans-serif;
+    text-align: left;
+}
+
+.fractro_details .eligibility p,
+.fractro_details .eligibility h2 span {
+    margin-top: 0;
+    margin-bottom: 1rem !important;
+    color: #4d4d4d !important;
+    font-family: "Open Sans", sans-serif !important;
+    font-weight: 400 !important;
+    font-size: 18px !important;
+    line-height: 30.67px !important;
+}
+
+.fractro_details .eligibility h2 pre {
+    font-weight: 700;
+    color: #000000;
+}
+
+.syllabus .session{
+    margin-top: 50px
+}
+
+.syllabus h3 {
+    line-height: 30.67px;
+    font-weight: 700;
+    color: #063360;
+    font-size: 22px;
+    margin-bottom: 10px !important;
+    font-family: "Open Sans", sans-serif;
+    text-align: left;
+}
+
+
+.ftco-footer .ftco-footer-widget h2{    margin-top: 0;}
+
+
+@media (max-width: 991px) {
+
+    .navbar-collapse.show,
+    .navbar-expand-lg .navbar-collapse.show {
+        display: initial;
+        right: 0;
+        top: 0;
+        left: 0;
+        margin: 0;
+        border: 0;
+        padding: 20px;
+        overflow-y: scroll !important;
+        height: 100vh !important;
+
+    }.registration .form-row label, .registration label,.course-form .form-group label{    font-size: 21px;}
+}
+@media (max-width: 768px){
+.ftco-section.ftco-no-pt .row.d-flex .order-md-last {
+    flex: 0 0 100%;
+    max-width: 1000%;
+}
+}
+
+.contact-section .box p, .contact-section .box p a{    word-break: break-all;
+    font-size: 18px;}
